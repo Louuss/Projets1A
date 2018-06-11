@@ -1,0 +1,4 @@
+# Any line starting with a '#' is a comment line.	
+[] --> [Gold=2] cost = 1
+[] --> [Gold=2] cost = 1
+[] --> [Gold=2] cost = 1
